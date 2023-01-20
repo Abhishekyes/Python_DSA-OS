@@ -1,0 +1,9 @@
+Pandas :
+read diffrent files by pandas 
+data types
+column head,tail
+access dataframe ,series
+json  file load -> make in dataFrame
+import request
+extract dict in dict in id
+make new col and feed data of previous data in that 
